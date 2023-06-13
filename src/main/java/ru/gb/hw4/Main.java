@@ -11,7 +11,13 @@ public class Main {
 
     public static int sumAll(String[][] inputArray) {
         int sum = 0;
+        if (inputArray.length != 4) {
+            throw new MyArraySizeException("Incorrect size");
+        }
         for (String[] strings : inputArray) {
+            if (strings.length != 4) {
+                throw new MyArraySizeException("Incorrect size");
+            }
             for (String string : strings) {
                 sum += Integer.parseInt(string);
             }
