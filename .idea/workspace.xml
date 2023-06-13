@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa1de487-888f-4795-85ce-27821aa9cb5c" name="Changes" comment="method sumAll added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hw4/MyArraySizeException.java" afterDir="false" />
+    <list default="true" id="fa1de487-888f-4795-85ce-27821aa9cb5c" name="Changes" comment="MyArraySizeException added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hw4/MyArrayDataException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/gb/hw4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hw4/Main.java" afterDir="false" />
     </list>
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686668573773</updated>
-      <workItem from="1686668575357" duration="2232000" />
+      <workItem from="1686668575357" duration="5834000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1686668711203</created>
@@ -73,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686668711203</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="methods sumAll,printArray added">
+      <created>1686671039022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686671039022</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MyArraySizeException added">
+      <created>1686671910273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686671910273</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +96,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="method sumAll added" />
-    <option name="LAST_COMMIT_MESSAGE" value="method sumAll added" />
+    <MESSAGE value="methods sumAll,printArray added" />
+    <MESSAGE value="MyArraySizeException added" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyArraySizeException added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
